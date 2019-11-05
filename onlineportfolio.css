@@ -1,0 +1,101 @@
+html{
+	font-style: normal;
+}
+header{
+	color: blue;
+	font-size: 36px;
+}
+nav{	
+	color: blue;
+	font-size: 30px;
+	width: 50%;
+	padding:16px;
+	cursor: crosshair;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+body{
+	background-image: url("paperlayers.jpg");
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+title{
+	color: blue;
+	font-size: 36px;
+}
+h1{
+	color: blue;
+	font-size: 34px;
+}
+h2{
+	color: blue;
+	font-size: 32px;
+}
+h3{
+	color: blue;
+	font-size: 30px;
+}
+h4{
+	color: blue;
+	font-size: 28px;
+}
+h5{
+	color: blue;
+	font-size: 24px;
+}
+h6{
+	color: blue;
+	font-size: 20px;
+}
+p{
+	color: black;
+	font-size: 16px;
+	width: 50%
+}
+ul{
+	color: blue;
+	font-size: 18px;
+	padding: 8px;
+	list-style: none;
+}
+ol{
+	color: blue;
+	font-size: 18px;
+	list-style: none;
+}
+li{
+	color: black;
+	font-size: 18px;
+	list-style: none;
+}
+a{
+	color: blue;
+	font-size: 24px;
+	width: 50%;
+	padding:12px;
+	cursor: crosshair;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.column{
+	float: left;
+	width: 50%;
+}
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+#MusicID{
+
+}
+.music{
+
+}
+footer{
+	color: black;
+	width: 100%;
+	font-size: 12px;
+}

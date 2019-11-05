@@ -1,0 +1,67 @@
+html{
+	font-style: normal;
+}
+header{
+	color: white;
+	font-size: 36px;
+}
+nav{	
+	color: white;
+	font-size: 30px;
+	width: 50%;
+	padding:16px;
+	cursor: crosshair;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+body{
+	background-image: url("starsky.jpg");
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+title{
+	color: white;
+	font-size: 36px;
+}
+h1{
+	color: white;
+	font-size: 34px;
+}
+h4{
+	color: white;
+	font-size: 28px;
+}
+h6{
+	color: white;
+	font-size: 20px;
+}
+p{
+	color: white;
+	font-size: 16px;
+	width: 50%
+}
+a{
+	color: white;
+	font-size: 24px;
+	width: 50%;
+	padding:12px;
+	cursor: crosshair;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.column{
+	float: left;
+	width: 50%;
+}
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+footer{
+	color: white;
+	width: 100%;
+	font-size: 12px;
+}
